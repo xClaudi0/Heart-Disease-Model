@@ -5,6 +5,4 @@ Nulla di eccezionale, sto cercando di imparare ed è la prima volta che ci metto
 
 Scritto in Python su Jupyter, utilizzando le seguenti librerie:
 
--Pandas
--Numpy
--SkLearn
+-Pandas, Numpy, SkLearn
